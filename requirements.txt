@@ -1,0 +1,3 @@
+cryptography
+opencv-python
+numpy
